@@ -1,0 +1,32 @@
+{
+  "footerItem": [
+    {
+      "heading": "POPULAR CATEGORIES",
+      "item1": "Phones",
+      "item2": "Shoes",
+      "item3": "Clothes",
+      "item4": "Laptops"
+    },
+    {
+      "heading": "TRENDING SEARCHES",
+      "item1": "Shoes",
+      "item2": "Books",
+      "item3": "Charger",
+      "item4": "Phone"
+    },
+    {
+      "heading": "ABOUT US",
+      "item1": "About EMPG",
+      "item2": "HOstel-Bazar Blog",
+      "item3": "Contact Us",
+      "item4": "Hostel-Bazar for Businesses"
+    },
+    {
+      "heading": "Hostel Bazar",
+      "item1": "Help",
+      "item2": "Sitemap",
+      "item3": "Terms of use",
+      "item4": "Privacy Policy"
+    }
+  ]
+}

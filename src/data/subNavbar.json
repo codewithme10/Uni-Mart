@@ -1,0 +1,25 @@
+{
+  "subNavbar": [
+    {
+      "nav1": "Mobile Phones"
+    },
+    {
+      "nav1": "Laptops"
+    },
+    {
+      "nav1": "Jeans"
+    },
+    {
+      "nav1": "Shoes"
+    },
+    {
+      "nav1":"Books"
+    },
+    {
+      "nav1": "Tablets"
+    },
+    {
+      "nav1": "T-shirts"
+    }
+  ]
+}
